@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace BooleanLogicAssignment
+namespace Branching Assignment Submission
 {
     class Program
     {
