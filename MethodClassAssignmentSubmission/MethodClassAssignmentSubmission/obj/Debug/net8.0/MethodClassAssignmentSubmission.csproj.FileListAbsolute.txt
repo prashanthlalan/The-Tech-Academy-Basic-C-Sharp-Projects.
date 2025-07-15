@@ -1,0 +1,14 @@
+C:\Users\16476\Desktop\Basic_C#_Programs\MethodClassAssignmentSubmission\MethodClassAssignmentSubmission\bin\Debug\net8.0\MethodClassAssignmentSubmission.exe
+C:\Users\16476\Desktop\Basic_C#_Programs\MethodClassAssignmentSubmission\MethodClassAssignmentSubmission\bin\Debug\net8.0\MethodClassAssignmentSubmission.deps.json
+C:\Users\16476\Desktop\Basic_C#_Programs\MethodClassAssignmentSubmission\MethodClassAssignmentSubmission\bin\Debug\net8.0\MethodClassAssignmentSubmission.runtimeconfig.json
+C:\Users\16476\Desktop\Basic_C#_Programs\MethodClassAssignmentSubmission\MethodClassAssignmentSubmission\bin\Debug\net8.0\MethodClassAssignmentSubmission.dll
+C:\Users\16476\Desktop\Basic_C#_Programs\MethodClassAssignmentSubmission\MethodClassAssignmentSubmission\bin\Debug\net8.0\MethodClassAssignmentSubmission.pdb
+C:\Users\16476\Desktop\Basic_C#_Programs\MethodClassAssignmentSubmission\MethodClassAssignmentSubmission\obj\Debug\net8.0\MethodClassAssignmentSubmission.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\16476\Desktop\Basic_C#_Programs\MethodClassAssignmentSubmission\MethodClassAssignmentSubmission\obj\Debug\net8.0\MethodClassAssignmentSubmission.AssemblyInfoInputs.cache
+C:\Users\16476\Desktop\Basic_C#_Programs\MethodClassAssignmentSubmission\MethodClassAssignmentSubmission\obj\Debug\net8.0\MethodClassAssignmentSubmission.AssemblyInfo.cs
+C:\Users\16476\Desktop\Basic_C#_Programs\MethodClassAssignmentSubmission\MethodClassAssignmentSubmission\obj\Debug\net8.0\MethodClassAssignmentSubmission.csproj.CoreCompileInputs.cache
+C:\Users\16476\Desktop\Basic_C#_Programs\MethodClassAssignmentSubmission\MethodClassAssignmentSubmission\obj\Debug\net8.0\MethodClassAssignmentSubmission.dll
+C:\Users\16476\Desktop\Basic_C#_Programs\MethodClassAssignmentSubmission\MethodClassAssignmentSubmission\obj\Debug\net8.0\refint\MethodClassAssignmentSubmission.dll
+C:\Users\16476\Desktop\Basic_C#_Programs\MethodClassAssignmentSubmission\MethodClassAssignmentSubmission\obj\Debug\net8.0\MethodClassAssignmentSubmission.pdb
+C:\Users\16476\Desktop\Basic_C#_Programs\MethodClassAssignmentSubmission\MethodClassAssignmentSubmission\obj\Debug\net8.0\MethodClassAssignmentSubmission.genruntimeconfig.cache
+C:\Users\16476\Desktop\Basic_C#_Programs\MethodClassAssignmentSubmission\MethodClassAssignmentSubmission\obj\Debug\net8.0\ref\MethodClassAssignmentSubmission.dll
