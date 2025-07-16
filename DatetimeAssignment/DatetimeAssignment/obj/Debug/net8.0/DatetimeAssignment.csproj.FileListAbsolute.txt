@@ -1,0 +1,14 @@
+C:\Users\16476\Desktop\Basic_C#_Programs\DatetimeAssignment\DatetimeAssignment\bin\Debug\net8.0\DatetimeAssignment.exe
+C:\Users\16476\Desktop\Basic_C#_Programs\DatetimeAssignment\DatetimeAssignment\bin\Debug\net8.0\DatetimeAssignment.deps.json
+C:\Users\16476\Desktop\Basic_C#_Programs\DatetimeAssignment\DatetimeAssignment\bin\Debug\net8.0\DatetimeAssignment.runtimeconfig.json
+C:\Users\16476\Desktop\Basic_C#_Programs\DatetimeAssignment\DatetimeAssignment\bin\Debug\net8.0\DatetimeAssignment.dll
+C:\Users\16476\Desktop\Basic_C#_Programs\DatetimeAssignment\DatetimeAssignment\bin\Debug\net8.0\DatetimeAssignment.pdb
+C:\Users\16476\Desktop\Basic_C#_Programs\DatetimeAssignment\DatetimeAssignment\obj\Debug\net8.0\DatetimeAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\16476\Desktop\Basic_C#_Programs\DatetimeAssignment\DatetimeAssignment\obj\Debug\net8.0\DatetimeAssignment.AssemblyInfoInputs.cache
+C:\Users\16476\Desktop\Basic_C#_Programs\DatetimeAssignment\DatetimeAssignment\obj\Debug\net8.0\DatetimeAssignment.AssemblyInfo.cs
+C:\Users\16476\Desktop\Basic_C#_Programs\DatetimeAssignment\DatetimeAssignment\obj\Debug\net8.0\DatetimeAssignment.csproj.CoreCompileInputs.cache
+C:\Users\16476\Desktop\Basic_C#_Programs\DatetimeAssignment\DatetimeAssignment\obj\Debug\net8.0\DatetimeAssignment.dll
+C:\Users\16476\Desktop\Basic_C#_Programs\DatetimeAssignment\DatetimeAssignment\obj\Debug\net8.0\refint\DatetimeAssignment.dll
+C:\Users\16476\Desktop\Basic_C#_Programs\DatetimeAssignment\DatetimeAssignment\obj\Debug\net8.0\DatetimeAssignment.pdb
+C:\Users\16476\Desktop\Basic_C#_Programs\DatetimeAssignment\DatetimeAssignment\obj\Debug\net8.0\DatetimeAssignment.genruntimeconfig.cache
+C:\Users\16476\Desktop\Basic_C#_Programs\DatetimeAssignment\DatetimeAssignment\obj\Debug\net8.0\ref\DatetimeAssignment.dll
