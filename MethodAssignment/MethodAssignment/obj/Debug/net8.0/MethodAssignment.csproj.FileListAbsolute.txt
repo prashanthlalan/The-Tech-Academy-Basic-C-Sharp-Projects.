@@ -1,0 +1,14 @@
+C:\Users\16476\Desktop\Basic_C#_Programs\MethodAssignment\MethodAssignment\bin\Debug\net8.0\MethodAssignment.exe
+C:\Users\16476\Desktop\Basic_C#_Programs\MethodAssignment\MethodAssignment\bin\Debug\net8.0\MethodAssignment.deps.json
+C:\Users\16476\Desktop\Basic_C#_Programs\MethodAssignment\MethodAssignment\bin\Debug\net8.0\MethodAssignment.runtimeconfig.json
+C:\Users\16476\Desktop\Basic_C#_Programs\MethodAssignment\MethodAssignment\bin\Debug\net8.0\MethodAssignment.dll
+C:\Users\16476\Desktop\Basic_C#_Programs\MethodAssignment\MethodAssignment\bin\Debug\net8.0\MethodAssignment.pdb
+C:\Users\16476\Desktop\Basic_C#_Programs\MethodAssignment\MethodAssignment\obj\Debug\net8.0\MethodAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\16476\Desktop\Basic_C#_Programs\MethodAssignment\MethodAssignment\obj\Debug\net8.0\MethodAssignment.AssemblyInfoInputs.cache
+C:\Users\16476\Desktop\Basic_C#_Programs\MethodAssignment\MethodAssignment\obj\Debug\net8.0\MethodAssignment.AssemblyInfo.cs
+C:\Users\16476\Desktop\Basic_C#_Programs\MethodAssignment\MethodAssignment\obj\Debug\net8.0\MethodAssignment.csproj.CoreCompileInputs.cache
+C:\Users\16476\Desktop\Basic_C#_Programs\MethodAssignment\MethodAssignment\obj\Debug\net8.0\MethodAssignment.dll
+C:\Users\16476\Desktop\Basic_C#_Programs\MethodAssignment\MethodAssignment\obj\Debug\net8.0\refint\MethodAssignment.dll
+C:\Users\16476\Desktop\Basic_C#_Programs\MethodAssignment\MethodAssignment\obj\Debug\net8.0\MethodAssignment.pdb
+C:\Users\16476\Desktop\Basic_C#_Programs\MethodAssignment\MethodAssignment\obj\Debug\net8.0\MethodAssignment.genruntimeconfig.cache
+C:\Users\16476\Desktop\Basic_C#_Programs\MethodAssignment\MethodAssignment\obj\Debug\net8.0\ref\MethodAssignment.dll
