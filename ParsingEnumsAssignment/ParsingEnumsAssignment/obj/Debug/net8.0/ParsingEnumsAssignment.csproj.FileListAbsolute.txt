@@ -1,0 +1,14 @@
+C:\Users\16476\Desktop\Basic_C#_Programs\ParsingEnumsAssignment\ParsingEnumsAssignment\bin\Debug\net8.0\ParsingEnumsAssignment.exe
+C:\Users\16476\Desktop\Basic_C#_Programs\ParsingEnumsAssignment\ParsingEnumsAssignment\bin\Debug\net8.0\ParsingEnumsAssignment.deps.json
+C:\Users\16476\Desktop\Basic_C#_Programs\ParsingEnumsAssignment\ParsingEnumsAssignment\bin\Debug\net8.0\ParsingEnumsAssignment.runtimeconfig.json
+C:\Users\16476\Desktop\Basic_C#_Programs\ParsingEnumsAssignment\ParsingEnumsAssignment\bin\Debug\net8.0\ParsingEnumsAssignment.dll
+C:\Users\16476\Desktop\Basic_C#_Programs\ParsingEnumsAssignment\ParsingEnumsAssignment\bin\Debug\net8.0\ParsingEnumsAssignment.pdb
+C:\Users\16476\Desktop\Basic_C#_Programs\ParsingEnumsAssignment\ParsingEnumsAssignment\obj\Debug\net8.0\ParsingEnumsAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\16476\Desktop\Basic_C#_Programs\ParsingEnumsAssignment\ParsingEnumsAssignment\obj\Debug\net8.0\ParsingEnumsAssignment.AssemblyInfoInputs.cache
+C:\Users\16476\Desktop\Basic_C#_Programs\ParsingEnumsAssignment\ParsingEnumsAssignment\obj\Debug\net8.0\ParsingEnumsAssignment.AssemblyInfo.cs
+C:\Users\16476\Desktop\Basic_C#_Programs\ParsingEnumsAssignment\ParsingEnumsAssignment\obj\Debug\net8.0\ParsingEnumsAssignment.csproj.CoreCompileInputs.cache
+C:\Users\16476\Desktop\Basic_C#_Programs\ParsingEnumsAssignment\ParsingEnumsAssignment\obj\Debug\net8.0\ParsingEnumsAssignment.dll
+C:\Users\16476\Desktop\Basic_C#_Programs\ParsingEnumsAssignment\ParsingEnumsAssignment\obj\Debug\net8.0\refint\ParsingEnumsAssignment.dll
+C:\Users\16476\Desktop\Basic_C#_Programs\ParsingEnumsAssignment\ParsingEnumsAssignment\obj\Debug\net8.0\ParsingEnumsAssignment.pdb
+C:\Users\16476\Desktop\Basic_C#_Programs\ParsingEnumsAssignment\ParsingEnumsAssignment\obj\Debug\net8.0\ParsingEnumsAssignment.genruntimeconfig.cache
+C:\Users\16476\Desktop\Basic_C#_Programs\ParsingEnumsAssignment\ParsingEnumsAssignment\obj\Debug\net8.0\ref\ParsingEnumsAssignment.dll
