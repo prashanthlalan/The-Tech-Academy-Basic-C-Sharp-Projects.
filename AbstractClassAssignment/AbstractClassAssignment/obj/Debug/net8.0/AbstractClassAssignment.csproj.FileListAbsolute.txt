@@ -1,0 +1,14 @@
+C:\Users\16476\Desktop\Basic_C#_Programs\AbstractClassAssignment\AbstractClassAssignment\bin\Debug\net8.0\AbstractClassAssignment.exe
+C:\Users\16476\Desktop\Basic_C#_Programs\AbstractClassAssignment\AbstractClassAssignment\bin\Debug\net8.0\AbstractClassAssignment.deps.json
+C:\Users\16476\Desktop\Basic_C#_Programs\AbstractClassAssignment\AbstractClassAssignment\bin\Debug\net8.0\AbstractClassAssignment.runtimeconfig.json
+C:\Users\16476\Desktop\Basic_C#_Programs\AbstractClassAssignment\AbstractClassAssignment\bin\Debug\net8.0\AbstractClassAssignment.dll
+C:\Users\16476\Desktop\Basic_C#_Programs\AbstractClassAssignment\AbstractClassAssignment\bin\Debug\net8.0\AbstractClassAssignment.pdb
+C:\Users\16476\Desktop\Basic_C#_Programs\AbstractClassAssignment\AbstractClassAssignment\obj\Debug\net8.0\AbstractClassAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\16476\Desktop\Basic_C#_Programs\AbstractClassAssignment\AbstractClassAssignment\obj\Debug\net8.0\AbstractClassAssignment.AssemblyInfoInputs.cache
+C:\Users\16476\Desktop\Basic_C#_Programs\AbstractClassAssignment\AbstractClassAssignment\obj\Debug\net8.0\AbstractClassAssignment.AssemblyInfo.cs
+C:\Users\16476\Desktop\Basic_C#_Programs\AbstractClassAssignment\AbstractClassAssignment\obj\Debug\net8.0\AbstractClassAssignment.csproj.CoreCompileInputs.cache
+C:\Users\16476\Desktop\Basic_C#_Programs\AbstractClassAssignment\AbstractClassAssignment\obj\Debug\net8.0\AbstractClassAssignment.dll
+C:\Users\16476\Desktop\Basic_C#_Programs\AbstractClassAssignment\AbstractClassAssignment\obj\Debug\net8.0\refint\AbstractClassAssignment.dll
+C:\Users\16476\Desktop\Basic_C#_Programs\AbstractClassAssignment\AbstractClassAssignment\obj\Debug\net8.0\AbstractClassAssignment.pdb
+C:\Users\16476\Desktop\Basic_C#_Programs\AbstractClassAssignment\AbstractClassAssignment\obj\Debug\net8.0\AbstractClassAssignment.genruntimeconfig.cache
+C:\Users\16476\Desktop\Basic_C#_Programs\AbstractClassAssignment\AbstractClassAssignment\obj\Debug\net8.0\ref\AbstractClassAssignment.dll

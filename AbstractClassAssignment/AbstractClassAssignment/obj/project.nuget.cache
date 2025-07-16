@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "YJmtu/P39rE=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\16476\\Desktop\\Basic_C#_Programs\\AbstractClassAssignment\\AbstractClassAssignment\\AbstractClassAssignment.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\16476\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\8.0.15\\microsoft.netcore.app.host.win-x64.8.0.15.nupkg.sha512"
+  ],
+  "logs": []
+}
