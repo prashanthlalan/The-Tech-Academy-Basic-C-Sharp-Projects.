@@ -1,0 +1,14 @@
+C:\Users\16476\Desktop\Basic_C#_Programs\Operators Assignment Submission\Operators Assignment Submission\bin\Debug\net8.0\OperatorsAssignmentSubmission.exe
+C:\Users\16476\Desktop\Basic_C#_Programs\Operators Assignment Submission\Operators Assignment Submission\bin\Debug\net8.0\OperatorsAssignmentSubmission.deps.json
+C:\Users\16476\Desktop\Basic_C#_Programs\Operators Assignment Submission\Operators Assignment Submission\bin\Debug\net8.0\OperatorsAssignmentSubmission.runtimeconfig.json
+C:\Users\16476\Desktop\Basic_C#_Programs\Operators Assignment Submission\Operators Assignment Submission\bin\Debug\net8.0\OperatorsAssignmentSubmission.dll
+C:\Users\16476\Desktop\Basic_C#_Programs\Operators Assignment Submission\Operators Assignment Submission\bin\Debug\net8.0\OperatorsAssignmentSubmission.pdb
+C:\Users\16476\Desktop\Basic_C#_Programs\Operators Assignment Submission\Operators Assignment Submission\obj\Debug\net8.0\OperatorsAssignmentSubmission.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\16476\Desktop\Basic_C#_Programs\Operators Assignment Submission\Operators Assignment Submission\obj\Debug\net8.0\OperatorsAssignmentSubmission.AssemblyInfoInputs.cache
+C:\Users\16476\Desktop\Basic_C#_Programs\Operators Assignment Submission\Operators Assignment Submission\obj\Debug\net8.0\OperatorsAssignmentSubmission.AssemblyInfo.cs
+C:\Users\16476\Desktop\Basic_C#_Programs\Operators Assignment Submission\Operators Assignment Submission\obj\Debug\net8.0\OperatorsAssignmentSubmission.csproj.CoreCompileInputs.cache
+C:\Users\16476\Desktop\Basic_C#_Programs\Operators Assignment Submission\Operators Assignment Submission\obj\Debug\net8.0\OperatorsAssignmentSubmission.dll
+C:\Users\16476\Desktop\Basic_C#_Programs\Operators Assignment Submission\Operators Assignment Submission\obj\Debug\net8.0\refint\OperatorsAssignmentSubmission.dll
+C:\Users\16476\Desktop\Basic_C#_Programs\Operators Assignment Submission\Operators Assignment Submission\obj\Debug\net8.0\OperatorsAssignmentSubmission.pdb
+C:\Users\16476\Desktop\Basic_C#_Programs\Operators Assignment Submission\Operators Assignment Submission\obj\Debug\net8.0\OperatorsAssignmentSubmission.genruntimeconfig.cache
+C:\Users\16476\Desktop\Basic_C#_Programs\Operators Assignment Submission\Operators Assignment Submission\obj\Debug\net8.0\ref\OperatorsAssignmentSubmission.dll
