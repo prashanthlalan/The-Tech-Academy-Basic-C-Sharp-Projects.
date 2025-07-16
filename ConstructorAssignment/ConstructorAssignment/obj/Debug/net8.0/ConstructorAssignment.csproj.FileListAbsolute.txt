@@ -1,0 +1,14 @@
+C:\Users\16476\Desktop\Basic_C#_Programs\ConstructorAssignment\ConstructorAssignment\bin\Debug\net8.0\ConstructorAssignment.exe
+C:\Users\16476\Desktop\Basic_C#_Programs\ConstructorAssignment\ConstructorAssignment\bin\Debug\net8.0\ConstructorAssignment.deps.json
+C:\Users\16476\Desktop\Basic_C#_Programs\ConstructorAssignment\ConstructorAssignment\bin\Debug\net8.0\ConstructorAssignment.runtimeconfig.json
+C:\Users\16476\Desktop\Basic_C#_Programs\ConstructorAssignment\ConstructorAssignment\bin\Debug\net8.0\ConstructorAssignment.dll
+C:\Users\16476\Desktop\Basic_C#_Programs\ConstructorAssignment\ConstructorAssignment\bin\Debug\net8.0\ConstructorAssignment.pdb
+C:\Users\16476\Desktop\Basic_C#_Programs\ConstructorAssignment\ConstructorAssignment\obj\Debug\net8.0\ConstructorAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\16476\Desktop\Basic_C#_Programs\ConstructorAssignment\ConstructorAssignment\obj\Debug\net8.0\ConstructorAssignment.AssemblyInfoInputs.cache
+C:\Users\16476\Desktop\Basic_C#_Programs\ConstructorAssignment\ConstructorAssignment\obj\Debug\net8.0\ConstructorAssignment.AssemblyInfo.cs
+C:\Users\16476\Desktop\Basic_C#_Programs\ConstructorAssignment\ConstructorAssignment\obj\Debug\net8.0\ConstructorAssignment.csproj.CoreCompileInputs.cache
+C:\Users\16476\Desktop\Basic_C#_Programs\ConstructorAssignment\ConstructorAssignment\obj\Debug\net8.0\ConstructorAssignment.dll
+C:\Users\16476\Desktop\Basic_C#_Programs\ConstructorAssignment\ConstructorAssignment\obj\Debug\net8.0\refint\ConstructorAssignment.dll
+C:\Users\16476\Desktop\Basic_C#_Programs\ConstructorAssignment\ConstructorAssignment\obj\Debug\net8.0\ConstructorAssignment.pdb
+C:\Users\16476\Desktop\Basic_C#_Programs\ConstructorAssignment\ConstructorAssignment\obj\Debug\net8.0\ConstructorAssignment.genruntimeconfig.cache
+C:\Users\16476\Desktop\Basic_C#_Programs\ConstructorAssignment\ConstructorAssignment\obj\Debug\net8.0\ref\ConstructorAssignment.dll
