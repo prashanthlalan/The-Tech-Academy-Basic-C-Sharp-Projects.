@@ -1,0 +1,14 @@
+C:\Users\16476\Desktop\Basic_C#_Programs\LambdaExpressionAssignment\LambdaExpressionAssignment\bin\Debug\net8.0\LambdaExpressionAssignment.exe
+C:\Users\16476\Desktop\Basic_C#_Programs\LambdaExpressionAssignment\LambdaExpressionAssignment\bin\Debug\net8.0\LambdaExpressionAssignment.deps.json
+C:\Users\16476\Desktop\Basic_C#_Programs\LambdaExpressionAssignment\LambdaExpressionAssignment\bin\Debug\net8.0\LambdaExpressionAssignment.runtimeconfig.json
+C:\Users\16476\Desktop\Basic_C#_Programs\LambdaExpressionAssignment\LambdaExpressionAssignment\bin\Debug\net8.0\LambdaExpressionAssignment.dll
+C:\Users\16476\Desktop\Basic_C#_Programs\LambdaExpressionAssignment\LambdaExpressionAssignment\bin\Debug\net8.0\LambdaExpressionAssignment.pdb
+C:\Users\16476\Desktop\Basic_C#_Programs\LambdaExpressionAssignment\LambdaExpressionAssignment\obj\Debug\net8.0\LambdaExpressionAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\16476\Desktop\Basic_C#_Programs\LambdaExpressionAssignment\LambdaExpressionAssignment\obj\Debug\net8.0\LambdaExpressionAssignment.AssemblyInfoInputs.cache
+C:\Users\16476\Desktop\Basic_C#_Programs\LambdaExpressionAssignment\LambdaExpressionAssignment\obj\Debug\net8.0\LambdaExpressionAssignment.AssemblyInfo.cs
+C:\Users\16476\Desktop\Basic_C#_Programs\LambdaExpressionAssignment\LambdaExpressionAssignment\obj\Debug\net8.0\LambdaExpressionAssignment.csproj.CoreCompileInputs.cache
+C:\Users\16476\Desktop\Basic_C#_Programs\LambdaExpressionAssignment\LambdaExpressionAssignment\obj\Debug\net8.0\LambdaExpressionAssignment.dll
+C:\Users\16476\Desktop\Basic_C#_Programs\LambdaExpressionAssignment\LambdaExpressionAssignment\obj\Debug\net8.0\refint\LambdaExpressionAssignment.dll
+C:\Users\16476\Desktop\Basic_C#_Programs\LambdaExpressionAssignment\LambdaExpressionAssignment\obj\Debug\net8.0\LambdaExpressionAssignment.pdb
+C:\Users\16476\Desktop\Basic_C#_Programs\LambdaExpressionAssignment\LambdaExpressionAssignment\obj\Debug\net8.0\LambdaExpressionAssignment.genruntimeconfig.cache
+C:\Users\16476\Desktop\Basic_C#_Programs\LambdaExpressionAssignment\LambdaExpressionAssignment\obj\Debug\net8.0\ref\LambdaExpressionAssignment.dll
