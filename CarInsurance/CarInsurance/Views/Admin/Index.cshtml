@@ -1,0 +1,50 @@
+﻿@using CarInsurance.ViewModels
+@model List<QuotesVm>
+
+<body class="adminview">
+
+    
+    <div class="row no-gutters m-3 bg-secondary">
+
+        <h1 class="display-1 m-0 text-center">Admin | All Quotes Till Date</h1>
+
+        <hr />
+
+        @foreach (var quote in Model)
+        {
+
+           
+            <div class="admincard card col-sm-12 col-md-10 col-lg-6 border-5">
+
+               
+                <div class="card-header bg-primary">
+                    <h3>Insuree Details</h3>
+                </div>
+
+                <div class="card-body bg-secondary">
+                    
+                    <dl class="row">
+
+                        <dt class="col-sm-3">First Name:</dt>
+                        <dd class="col-sm-9">@quote.FirstName</dd>
+
+                        <dt class="col-sm-3">Last Name:</dt>
+                        <dd class="col-sm-9">@quote.LastName</dd>
+
+                        <dt class="col-sm-3">Email:</dt>
+                        <dd class="col-sm-9">@quote.EmailAddress</dd>
+
+                        <dt class="col-sm-3">Quote:</dt>
+                        <dd class="col-sm-9">@decimal.Round(quote.Quote, 2, MidpointRounding.AwayFromZero)</dd>
+
+                    </dl>
+
+                </div>
+
+            </div>
+        }
+
+
+    </div>
+
+</body>
